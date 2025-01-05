@@ -20,4 +20,4 @@ ggplot(data, aes(x = Global_active_power)) +
   theme_minimal()
 
 # Save the plot to a file
-ggsave("bar_graph_global_power.png")
+ggsave("plot1.png")
